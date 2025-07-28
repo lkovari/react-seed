@@ -5,3 +5,11 @@ build
 out
 coverage
 *.lock
+
+**/*config*.js
+**/*config*.ts
+**/*config*.json
+
+**/*.json
+
+**/*.config.mjs
