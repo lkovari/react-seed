@@ -208,15 +208,14 @@ Example for `apps/main-app/tsconfig.json`:
 
 ---
 
-## 📚 Tech Stack
+# TODO:
 
-| Tool         | Version |
-| ------------ | ------- |
-| React        | 19.1.0  |
-| Next.js      | 15.4.4  |
-| TypeScript   | ^5      |
-| Sass / SCSS  | ^1.89.2 |
-| Tailwind CSS | ^4.1.11 |
-| TurboRepo    | ^2.5.5  |
-| Node.js      | >= 20   |
-| npm          | >= 10   |
+- implement reacr-version component
+- implement core components services models
+- implement shared components (main-layout, header footer, left-side-bar )
+- implement featires (home, not-found, about-me, one or two dummy feature)
+- implement routing
+
+# Requirements:
+
+- responsive design it should looks like on mobile, eg. implement hamburger icon which show on overlay the menus
